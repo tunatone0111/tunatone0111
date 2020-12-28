@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3>My Progamming Languages</h3>
+<p>
+    <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/HTML-20232A?style=flat-square&logo=html5&logoColor=d35d6e" />
+    <img src="https://img.shields.io/badge/CSS-20232A?style=flat-square&logo=css3&logoColor=efb08c" />
+    <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=8bcdcd" />
+</p>
